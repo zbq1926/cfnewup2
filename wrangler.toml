@@ -1,3 +1,4 @@
+name = "cfnew-worker"
 main = "worker.js"
 
 # Cloudflare Workers 兼容日期
